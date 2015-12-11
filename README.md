@@ -1,6 +1,6 @@
-globalize3_helpers
+globalize3_helpers (fix for globalize3 v5.0.0)
 ==================
-
+Original: https://github.com/leftis/globalize3_helpers
 Form helpers for globalize3.
 
 ## Install globalize3_helpers
@@ -8,7 +8,7 @@ Form helpers for globalize3.
 ###Installing gem:
 
 	When using bundler put this in your Gemfile:
-   `gem 'globalize3_helpers', :git => 'https://github.com/rui-castro/globalize3_helpers.git'` 
+   `gem 'globalize3_helpers', :git => 'https://github.com/amprsnd/globalize3_helpers.git'` 
 
 ## Using it
 
